@@ -26,6 +26,13 @@ namespace TestedFE.Views
 
         }
 
+        public YoutubePage(string hk)
+        {
+            string koli = hk;
+            BindingContext = new YoutubeVM(koli);
+            InitializeComponent();
+        }
+
         public YoutubePage()
         {
 
@@ -33,5 +40,7 @@ namespace TestedFE.Views
            
             InitializeComponent();
         }
+
+      
     }
 }

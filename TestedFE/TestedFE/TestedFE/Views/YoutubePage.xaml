@@ -6,6 +6,7 @@
     <StackLayout>
 
         <StackLayout>
+            <Label Text="SECPAGE"/>
             <SearchBar x:Name="Mainsearch" SearchButtonPressed="Hahahaha" />
         </StackLayout>
         
@@ -17,6 +18,7 @@
             </ListView.ItemTemplate>
         </ListView> 
 
+        
 
 
     </StackLayout>

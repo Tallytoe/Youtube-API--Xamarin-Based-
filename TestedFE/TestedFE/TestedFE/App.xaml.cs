@@ -11,9 +11,9 @@ namespace TestedFE
 		public App ()
 		{
 			InitializeComponent();
-
-			MainPage = new YoutubePage();
-		}
+            //MainPage = new YoutubePage();
+            MainPage = new NavigationPage(new MainYoutube());
+        }
 
 		protected override void OnStart ()
 		{

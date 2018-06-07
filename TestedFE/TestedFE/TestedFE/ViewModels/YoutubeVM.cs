@@ -63,7 +63,7 @@ namespace TestedFE.ViewModels
 
         private async Task<List<YoutubeItem>> GetVideosAsync(string xxh)
         {
-            string apiUrlForVideosDetails = "https://www.googleapis.com/youtube/v3/search?part=snippet&q=" +xxh+ "&maxResults=2&order=rating" + "&key=" + ApiKey;
+            string apiUrlForVideosDetails = "https://www.googleapis.com/youtube/v3/search?part=snippet&q=" +xxh+ "&maxResults=50&order=rating" + "&key=" + ApiKey;
             var content = await cclient.GetStringAsync(apiUrlForVideosDetails);
 
             Debug.WriteLine("async started");

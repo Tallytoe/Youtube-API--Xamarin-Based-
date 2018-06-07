@@ -16,3 +16,12 @@ C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2
 C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2.0\TestedFE.AssemblyInfo.cs
 C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2.0\TestedFE.dll
 C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2.0\TestedFE.pdb
+C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2.0\TestedFE.csprojAssemblyReference.cache
+C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2.0\TestedFE.csproj.CoreCompileInputs.cache
+C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2.0\TestedFE.AssemblyInfoInputs.cache
+C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2.0\TestedFE.AssemblyInfo.cs
+C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2.0\TestedFE.dll
+C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE\obj\Debug\netstandard2.0\TestedFE.pdb
+C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE\bin\Debug\netstandard2.0\TestedFE.deps.json
+C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE\bin\Debug\netstandard2.0\TestedFE.dll
+C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE\bin\Debug\netstandard2.0\TestedFE.pdb
