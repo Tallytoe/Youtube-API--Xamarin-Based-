@@ -720,3 +720,11 @@ C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\obj\x86\D
 C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\bin\x86\Debug\Plugin.MediaManager.Abstractions.dll
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\bin\x86\Debug\Plugin.MediaManager.dll
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\bin\x86\Debug\Plugin.MediaManager.pdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\bin\x86\Debug\Plugin.MediaManager.Forms.UWP.dll
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\bin\x86\Debug\Plugin.MediaManager.Forms.UWP.pdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\bin\x86\Debug\Plugin.MediaManager.Forms.dll
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\bin\x86\Debug\Plugin.MediaManager.Forms.pdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.UWP\obj\x86\Debug\Plugin.MediaManager.Forms.UWP.pri.xml

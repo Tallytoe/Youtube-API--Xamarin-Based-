@@ -175,3 +175,7 @@ C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.iOS\obj\iPhon
 C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.iOS\obj\iPhoneSimulator\Debug\TestedFE.iOS.csproj.CopyComplete
 C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.iOS\obj\iPhoneSimulator\Debug\TestedFE.iOS.exe
 C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.iOS\obj\iPhoneSimulator\Debug\TestedFE.iOS.pdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.iOS\bin\iPhoneSimulator\Debug\Plugin.MediaManager.Abstractions.dll
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.iOS\bin\iPhoneSimulator\Debug\Plugin.MediaManager.dll
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.iOS\bin\iPhoneSimulator\Debug\Plugin.MediaManager.Forms.dll
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.iOS\bin\iPhoneSimulator\Debug\Plugin.MediaManager.Forms.iOS.dll

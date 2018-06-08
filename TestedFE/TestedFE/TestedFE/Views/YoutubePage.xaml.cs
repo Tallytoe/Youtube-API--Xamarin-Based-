@@ -41,6 +41,12 @@ namespace TestedFE.Views
             InitializeComponent();
         }
 
-      
+        private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
+        {
+            var v = e.Item as YoutubeItem;
+            string vid = v.VideoId;
+            Navigation.PushAsync(new Vplayer(vid));
+
+        }
     }
 }

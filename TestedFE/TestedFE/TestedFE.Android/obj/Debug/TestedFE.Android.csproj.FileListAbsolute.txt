@@ -304,8 +304,15 @@ C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\D
 C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\TestedFE.pdb
 C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
 C:\Users\CVA\Desktop\Projects\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\bin\Debug\Plugin.Share.Abstractions.pdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\Plugin.Share.Abstractions.pdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\bin\Debug\Plugin.Share.dll.mdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\Plugin.Share.dll.mdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\android\assets\Plugin.Share.dll.mdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\android\assets\Plugin.Share.Abstractions.pdb
 C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\bin\Debug\TestedFE.Android.dll
 C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\TestedFE.pdb
 C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\TestedFE.Android.dll.mdb
 C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\Plugin.Share.dll.mdb
 C:\Users\CVA\Desktop\Mvvm temp\TestedFE\TestedFE\TestedFE.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

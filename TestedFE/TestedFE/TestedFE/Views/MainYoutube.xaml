@@ -4,18 +4,159 @@
              x:Class="TestedFE.Views.MainYoutube">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="MAINPAGE"/>
+           
             <SearchBar x:Name="Mainsearch1" SearchButtonPressed="Mainsearch_SearchButtonPressedd" />
 
-          <ListView ItemsSource="{Binding YoutubeItems}">
+          <!--- <ListView ItemsSource="{Binding YoutubeItems}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ImageCell Text="{Binding Title}" ImageSource="{Binding HighThumbnailUrl}" />
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView> 
+-->
+            <ListView ItemsSource="{Binding YoutubeItems}" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                            <ScrollView Orientation="Horizontal" >
+                                <StackLayout Orientation="Horizontal" Margin="1"   >
+                                    <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100" >
+                                        <Image   Source="{Binding HighThumbnailUrl}" >
+                                            
+                                        </Image>
+                                        <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                    </StackLayout>
+                                    <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                        <Image   Source="{Binding HighThumbnailUrl}" >
 
-          
+                                        </Image>
+                                        <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                    </StackLayout>
+                                    <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                        <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                        </Image>
+                                        <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                    </StackLayout>
+                                    <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                        <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                        </Image>
+                                        <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                    </StackLayout>
+                                    <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                        <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                        </Image>
+                                        <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                    </StackLayout>
+                                    <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                        <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                        </Image>
+                                        <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                    </StackLayout>
+                                </StackLayout>
+                                
+                                
+                            </ScrollView>
+
+
+                                <ScrollView Orientation="Horizontal" >
+                                    <StackLayout Orientation="Horizontal" Margin="1"   >
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100" >
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                    </StackLayout>
+
+
+                                </ScrollView>
+
+
+                                <ScrollView Orientation="Horizontal" >
+                                    <StackLayout Orientation="Horizontal" Margin="1"   >
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100" >
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
+                                            <Image   Source="{Binding HighThumbnailUrl}" >
+
+                                            </Image>
+                                            <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                        </StackLayout>
+                                    </StackLayout>
+
+
+                                </ScrollView>
+                            </StackLayout>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
 
         </StackLayout>
         
