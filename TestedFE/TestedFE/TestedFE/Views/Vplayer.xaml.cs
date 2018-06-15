@@ -24,7 +24,7 @@ namespace TestedFE.Views
         public Vplayer(string viid)
         {
             InitializeComponent();
-            lab.Text = viid;
+          //lab.Text = viid;
             string abc = viid;
             CrossShare.Current.OpenBrowser("https://www.youtube.com/watch?v="+abc);
         }

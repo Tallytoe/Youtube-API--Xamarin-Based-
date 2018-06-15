@@ -49,6 +49,12 @@
     <AppxPackagedFile Include="C:\Users\CVA\.nuget\packages\plugin.mediamanager.forms\0.4.5\lib\uap10.0\Plugin.MediaManager.Forms.dll">
       <PackagePath>Plugin.MediaManager.Forms.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CVA\.nuget\packages\plugin.share\7.1.1\lib\UAP10\Plugin.Share.Abstractions.dll">
+      <PackagePath>Plugin.Share.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\CVA\.nuget\packages\plugin.share\7.1.1\lib\UAP10\Plugin.Share.dll">
+      <PackagePath>Plugin.Share.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\CVA\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.1\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
     </AppxPackagedFile>

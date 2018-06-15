@@ -23,7 +23,7 @@ namespace TestedFE.ViewModels
 
         private const string ApiKey = "AIzaSyBtc8gM2Aped4tzkIw_avG8xtTRXSAaAXQ";
 
-       // private string apiUrlForVideosDetails = "https://www.googleapis.com/youtube/v3/search?part=snippet&q=spongebob&maxResults=50&order=rating" + "&key=" + ApiKey;
+       // private string apiUrlForVideosDetails = "https://www.googleapis.com/youtube/v3/search?part=snippet&q=spongebob&maxResults=20&order=rating" + "&key=" + ApiKey;
 
         private List<YoutubeItem> _youtubeItems;
 

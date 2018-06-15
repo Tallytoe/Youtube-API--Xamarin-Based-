@@ -27,6 +27,8 @@
                                             
                                         </Image>
                                         <Label Text="{Binding Title}" TextColor="Black" FontSize="11"></Label>
+                                            <Button Text="See More" Clicked="Button_Clicked"></Button>
+                                        
                                     </StackLayout>
                                     <StackLayout Orientation="Vertical" HeightRequest="150" WidthRequest="100">
                                         <Image   Source="{Binding HighThumbnailUrl}" >

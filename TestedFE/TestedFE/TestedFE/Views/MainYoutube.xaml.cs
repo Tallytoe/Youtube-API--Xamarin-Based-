@@ -26,5 +26,12 @@ namespace TestedFE.Views
             string place = Mainsearch1.Text;
             Navigation.PushAsync(new YoutubePage(place));
         }
+
+      
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            string place = "trending";
+            Navigation.PushAsync(new YoutubePage(place));
+        }
     }
 }
